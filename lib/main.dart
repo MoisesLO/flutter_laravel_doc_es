@@ -852,7 +852,7 @@ class HomeMenu extends StatelessWidget {
 }
 
 MobileAdTargetingInfo targetingInfo = MobileAdTargetingInfo(
-  keywords: <String>['flutterio', 'beautiful apps'],
+  keywords: <String>['laravel', 'documentacion offline php'],
   contentUrl: 'https://flutter.io',
   birthday: DateTime.now(),
   childDirected: false,
